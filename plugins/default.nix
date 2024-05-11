@@ -43,7 +43,6 @@
     ./git/git-worktree.nix
     ./git/gitblame.nix
     ./git/gitgutter.nix
-    ./git/gitignore.nix
     ./git/gitlinker.nix
     ./git/gitmessenger.nix
     ./git/gitsigns
